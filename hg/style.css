@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    height: 5rem;
+    position: fixed;
+    background: #9FE2BF;
+    width: 90rem;
+}
+.nameChat{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: #f1fff8;
+}
+.inpText{
+    margin-top: 37rem;
+    position: fixed;
+}
+#inp{
+    width: 100%;
+    height: 3rem;
+}
+.bttn{
+    width: 80px;
+    height: 3.3rem;
+    background: #9FE2BF;
+    border-color: #9FE2BF;
+    color: #f1fff8;
+}
+.text{
+    padding: 6rem 0 0 10px;
+}
+p{
+    height: 40px;
+    width: 90px;
+    background: #9FE2BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+#form {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+}
